@@ -49,6 +49,9 @@ You probably want to set up a [virtualenv].
    py.test test
    ```
 
+## Bug Bounty Hunters Notice
+API keys found from commit bec3ae23b53782370851e28cbda5033a596b58b5 have already been revoked and will not be accepted for bug bounties.
+
 ## Additional Resources
 
 - [General GitHub documentation](https://help.github.com/)
